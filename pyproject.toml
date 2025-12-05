@@ -4,4 +4,18 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "gpxpy>=1.6.2",
+    "pyproj>=3.7.2",
+    "rasterio>=1.4.3",
+    "tqdm>=4.67.1",
+    "xdem>=0.1.6",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/dem_gpx_utils"]
+

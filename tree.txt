@@ -1,0 +1,166 @@
+.
+├── dem_files
+│   ├── berlin_dgm1
+│   │   ├── tile_33388_5818.tif
+│   │   ├── tile_33388_5820.tif
+│   │   ├── tile_33390_5818.tif
+│   │   └── tile_33390_5820.tif
+│   ├── bw_dgm025
+│   │   ├── tile_32505_5324.tif
+│   │   ├── tile_32505_5325.tif
+│   │   ├── tile_32505_5326.tif
+│   │   ├── tile_32505_5327.tif
+│   │   ├── tile_32506_5324.tif
+│   │   ├── tile_32506_5325.tif
+│   │   ├── tile_32506_5326.tif
+│   │   ├── tile_32506_5327.tif
+│   │   ├── tile_32507_5324.tif
+│   │   ├── tile_32507_5325.tif
+│   │   ├── tile_32507_5326.tif
+│   │   ├── tile_32507_5327.tif
+│   │   ├── tile_32508_5324.tif
+│   │   ├── tile_32508_5325.tif
+│   │   ├── tile_32508_5326.tif
+│   │   ├── tile_32508_5327.tif
+│   │   ├── tile_32509_5324.tif
+│   │   ├── tile_32509_5325.tif
+│   │   ├── tile_32509_5326.tif
+│   │   ├── tile_32509_5327.tif
+│   │   ├── tile_32510_5324.tif
+│   │   ├── tile_32510_5325.tif
+│   │   ├── tile_32510_5326.tif
+│   │   ├── tile_32510_5327.tif
+│   │   ├── tile_32511_5324.tif
+│   │   ├── tile_32511_5325.tif
+│   │   ├── tile_32511_5326.tif
+│   │   ├── tile_32511_5327.tif
+│   │   ├── tile_32511_5400.tif
+│   │   ├── tile_32511_5401.tif
+│   │   ├── tile_32511_5402.tif
+│   │   ├── tile_32511_5403.tif
+│   │   ├── tile_32512_5324.tif
+│   │   ├── tile_32512_5325.tif
+│   │   ├── tile_32512_5326.tif
+│   │   ├── tile_32512_5327.tif
+│   │   ├── tile_32512_5400.tif
+│   │   ├── tile_32512_5401.tif
+│   │   ├── tile_32512_5402.tif
+│   │   ├── tile_32512_5403.tif
+│   │   ├── tile_32513_5324.tif
+│   │   ├── tile_32513_5325.tif
+│   │   ├── tile_32513_5326.tif
+│   │   ├── tile_32513_5327.tif
+│   │   ├── tile_32513_5402.tif
+│   │   ├── tile_32513_5403.tif
+│   │   ├── tile_32513_5404.tif
+│   │   ├── tile_32513_5405.tif
+│   │   ├── tile_32513_5406.tif
+│   │   ├── tile_32513_5407.tif
+│   │   ├── tile_32514_5324.tif
+│   │   ├── tile_32514_5325.tif
+│   │   ├── tile_32514_5326.tif
+│   │   ├── tile_32514_5327.tif
+│   │   ├── tile_32514_5402.tif
+│   │   ├── tile_32514_5403.tif
+│   │   ├── tile_32514_5404.tif
+│   │   ├── tile_32514_5405.tif
+│   │   ├── tile_32514_5406.tif
+│   │   ├── tile_32514_5407.tif
+│   │   ├── tile_32515_5400.tif
+│   │   ├── tile_32515_5401.tif
+│   │   ├── tile_32515_5402.tif
+│   │   ├── tile_32515_5403.tif
+│   │   ├── tile_32515_5404.tif
+│   │   ├── tile_32515_5405.tif
+│   │   ├── tile_32515_5406.tif
+│   │   ├── tile_32515_5407.tif
+│   │   ├── tile_32516_5400.tif
+│   │   ├── tile_32516_5401.tif
+│   │   ├── tile_32516_5402.tif
+│   │   ├── tile_32516_5403.tif
+│   │   ├── tile_32516_5404.tif
+│   │   ├── tile_32516_5405.tif
+│   │   ├── tile_32516_5406.tif
+│   │   └── tile_32516_5407.tif
+│   └── swissalti3d
+│       ├── tile_2622_1094.tif
+│       ├── tile_2622_1095.tif
+│       ├── tile_2623_1094.tif
+│       ├── tile_2623_1095.tif
+│       ├── tile_2623_1096.tif
+│       ├── tile_2623_1097.tif
+│       ├── tile_2624_1094.tif
+│       ├── tile_2624_1095.tif
+│       ├── tile_2624_1096.tif
+│       ├── tile_2624_1097.tif
+│       ├── tile_2625_1096.tif
+│       ├── tile_2625_1097.tif
+│       ├── tile_2683_1246.tif
+│       ├── tile_2683_1247.tif
+│       ├── tile_2683_1248.tif
+│       ├── tile_2684_1246.tif
+│       ├── tile_2684_1247.tif
+│       └── tile_2684_1248.tif
+├── gpx_corrected
+│   ├── Bike_Berlin_1.gpx
+│   ├── Bike_Berlin_2.gpx
+│   ├── Bike_Berlin_3.gpx
+│   ├── Bike_Berlin_4.gpx
+│   ├── Car_Berlin_1.gpx
+│   ├── Car_Berlin_2.gpx
+│   ├── Car_Berlin_3.gpx
+│   ├── Car_Stuttgart_2.gpx
+│   ├── Car_Zurich_1.gpx
+│   ├── Car_Zurich_2.gpx
+│   ├── Hike_Zermatt_1.gpx
+│   ├── Hike_Zurich_1.gpx
+│   ├── Hike_Zurich_2.gpx
+│   ├── MTB_Stuttgart_1.gpx
+│   ├── MTB_Zermatt_1.gpx
+│   ├── MTB_Zermatt_2.gpx
+│   ├── Racebike_Stuttgart_1.gpx
+│   ├── Racebike_Stuttgart_2.gpx
+│   ├── Racebike_Stuttgart_3.gpx
+│   ├── Racebike_Stuttgart_4.gpx
+│   └── Roadbike_Zurich_1.gpx
+├── gpx_files
+│   ├── Bike_Berlin_1.gpx
+│   ├── Bike_Berlin_2.gpx
+│   ├── Bike_Berlin_3.gpx
+│   ├── Car_Berlin_1.gpx
+│   ├── Car_Berlin_3.gpx
+│   ├── Car_Stuttgart_2.gpx
+│   ├── Car_Zurich_1.gpx
+│   ├── Car_Zurich_2.gpx
+│   ├── Hike_Zermatt_1.gpx
+│   ├── Hike_Zurich_1.gpx
+│   ├── Hike_Zurich_2.gpx
+│   ├── MTB_Stuttgart_1.gpx
+│   ├── MTB_Zermatt_1.gpx
+│   ├── MTB_Zermatt_2.gpx
+│   ├── Racebike_Stuttgart_1.gpx
+│   ├── Racebike_Stuttgart_2.gpx
+│   ├── Racebike_Stuttgart_3.gpx
+│   ├── Racebike_Stuttgart_4.gpx
+│   └── Roadbike_Zurich_1.gpx
+├── LICENSE
+├── pyproject.toml
+├── README.md
+├── rename.sh
+├── scripts
+│   ├── correct_elevation.py
+│   └── debug_elevation.py
+├── src
+│   ├── dem_gpx_scripts.egg-info
+│   │   ├── dependency_links.txt
+│   │   ├── PKG-INFO
+│   │   ├── requires.txt
+│   │   ├── SOURCES.txt
+│   │   └── top_level.txt
+│   └── dem-gpx-utils
+│       ├── ElevationTile.py
+│       └── __init__.py
+├── tree.txt
+└── uv.lock
+
+11 directories, 153 files
